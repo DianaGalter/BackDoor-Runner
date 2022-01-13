@@ -1,0 +1,8 @@
+@font-face {
+  font-family: cinzel;
+  src: url('./assets/fonts/cinzel-bold-webfont.woff');
+}
+
+body {
+  font-family: cinzel, serif;
+}
